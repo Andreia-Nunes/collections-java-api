@@ -1,4 +1,4 @@
-package main.java.map.ContagemDePalavras;
+package main.java.map.pesquisa.contagemDePalavras;
 
 public class Teste {
     public static void main(String[] args) {

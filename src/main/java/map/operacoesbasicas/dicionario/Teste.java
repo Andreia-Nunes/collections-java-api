@@ -1,4 +1,4 @@
-package main.java.map.Dicionario;
+package main.java.map.operacoesbasicas.dicionario;
 
 public class Teste {
     public static void main(String[] args) {

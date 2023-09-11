@@ -1,4 +1,4 @@
-package main.java.map.Dicionario;
+package main.java.map.operacoesbasicas.dicionario;
 
 import java.util.HashMap;
 import java.util.Map;

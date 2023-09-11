@@ -1,4 +1,4 @@
-package main.java.map.ContagemDePalavras;
+package main.java.map.pesquisa.contagemDePalavras;
 
 import java.util.HashMap;
 import java.util.Map;
